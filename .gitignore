@@ -1,0 +1,4 @@
+# Arquivos gerados pela construção do pacote
+build/
+dist/
+*.egg-info
